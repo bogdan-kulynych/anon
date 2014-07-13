@@ -5,16 +5,48 @@
   "access_token": "",
   "access_token_secret": "",
   "ranges": {
-    "US House of Representatives": [
-      ["143.231.0.0", "143.231.255.255"],
-      ["137.18.0.0", "137.18.255.255"],
-      ["143.228.0.0", "143.228.255.255"],
-      ["12.185.56.0", "12.185.56.7"],
-      ["12.147.170.144", "12.147.170.159"],
-      ["74.119.128.0", "74.119.131.255"]
+    "Electronic government of the Russian Federation": [
+      ["109.207.0.0", "109.207.15.255"],
     ],
-    "US Senate": [
-      ["156.33.0.0", "156.33.255.255"]
+    "Federal Security Service of Russian Federation": [
+      ["213.24.76.0", "213.24.77.255"]
+    ],
+    "Centre of Special Communication and Information of the Federal Govenment": [
+      ["195.225.232.0", "195.225.235.255"],
+      ["195.85.234.0", "195.85.236.255"]
+    ],
+    "Russian State Internet Network": [
+      ["95.173.128.0", "95.173.143.255"],
+      ["194.226.80.0", "194.226.95.255"],
+      ["194.226.116.0", "194.226.119.255"],
+      ["194.226.127.0", "194.226.127.255"],
+    ],
+    "Federal State Unitary Enterprise of the Order of the Red Banner of Labour 'Russian Broad-casting and Notification Network'": [
+      ["178.237.240.0", "178.237.255.255"]
+    ],
+    "FGUP NTC ATLAS": [
+      ["178.237.206.0", "178.237.206.255"]
+    ],
+    "Novosibirsk department of Atlas ISP": [
+      ["91.190.236.0", "91.190.239.255"]
+    ],
+    "FGUP Goznak": [
+      ["91.227.32.0", "91.227.32.255"]
+    ]
+    "Federal State-owned Enterprise Russian Television and Radio Broadcasting Network": [
+      ["193.105.14.0", "193.105.14.255"]
+    ],
+    "Network Federal agency on education": [
+      ["193.27.214.0", "193.27.215.255"]
+    ],
+    "Research Centre for Computer Science at the Russian Foreign Ministry": [
+      ["194.85.30.0", "194.85.30.255"]
+    ],
+    "The Investigative Committee": [
+      ["92.39.133.160", "92.39.133.175"]
+    ],
+    "The Federal Guard Service of the Russian Federation": [
+      ["95.173.128.0", "95.173.159.255"]
     ]
   }
 }
