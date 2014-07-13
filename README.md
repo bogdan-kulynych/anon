@@ -2,8 +2,12 @@
 
 [![Build Status](https://secure.travis-ci.org/edsu/anon.png)](http://travis-ci.org/edsu/anon)
 
+This is the fork of `anon` for [Russian IP ranges](config.json.template). It powers [@goswikitweet](https://twitter.com/goswikitweet). Feel free to submit the pull requests with additional IP ranges. IP ranges source [here](http://obzor.ly/2013/08/spisok-ip-kotorye-nuzhno-banit/).
+
+------------------------------------------------------
+
 This little coffee script will watch Wikipedia for edits from a set of named
-IP ranges and will tweet when it notices one.  It was inspired by [@parliamentedits](https://twitter.com/parliamentedits) and is used to make the [@congressedits](https://twitter.com/congressedits) feed available. 
+IP ranges and will tweet when it notices one.  It was inspired by [@parliamentedits](https://twitter.com/parliamentedits) and is used to make the [@congressedits](https://twitter.com/congressedits) feed available.
 
 If you are curious the default IP ranges for the US Congress in the `config.json.template` file came from [GovTrack](https://github.com/govtrack/govtrack.us-web/blob/master/website/middleware.py).  You can learn more about the significance of Congressional edits to Wikipedia [here](https://en.wikipedia.org/wiki/U.S._Congressional_staff_edits_to_Wikipedia) and [here](https://en.wikipedia.org/wiki/Wikipedia:Congressional_staffer_edits).
 
