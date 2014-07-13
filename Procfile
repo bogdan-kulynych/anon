@@ -1,1 +1,1 @@
-web: bin/anon
+worker: bin/anon
