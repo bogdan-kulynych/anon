@@ -6,7 +6,7 @@
   "access_token_secret": "",
   "ranges": {
     "Electronic government of the Russian Federation": [
-      ["109.207.0.0", "109.207.15.255"],
+      ["109.207.0.0", "109.207.15.255"]
     ],
     "Federal Security Service of Russian Federation": [
       ["213.24.76.0", "213.24.77.255"]
@@ -19,7 +19,7 @@
       ["95.173.128.0", "95.173.143.255"],
       ["194.226.80.0", "194.226.95.255"],
       ["194.226.116.0", "194.226.119.255"],
-      ["194.226.127.0", "194.226.127.255"],
+      ["194.226.127.0", "194.226.127.255"]
     ],
     "Federal State Unitary Enterprise of the Order of the Red Banner of Labour 'Russian Broad-casting and Notification Network'": [
       ["178.237.240.0", "178.237.255.255"]
@@ -32,7 +32,7 @@
     ],
     "FGUP Goznak": [
       ["91.227.32.0", "91.227.32.255"]
-    ]
+    ],
     "Federal State-owned Enterprise Russian Television and Radio Broadcasting Network": [
       ["193.105.14.0", "193.105.14.255"]
     ],
@@ -50,5 +50,3 @@
     ]
   }
 }
-
-
